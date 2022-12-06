@@ -1,0 +1,31 @@
+.workdiv {
+    background-color: rgb(238, 244, 244);
+}
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+button {
+    background-color: white;
+    // border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    cursor: pointer;
+}
+
+.container {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
